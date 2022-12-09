@@ -2,6 +2,7 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
+"homepage": "https://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@github.com/sanaShDev/todolist.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
